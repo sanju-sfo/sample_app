@@ -49,7 +49,7 @@
       <file leaf-file-name="static_pages_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="10" selection-start="357" selection-end="357" vertical-scroll-proportion="0.3515625">
+            <state line="7" column="33" selection-start="228" selection-end="228" vertical-scroll-proportion="0.20507812">
               <folding />
             </state>
           </provider>
@@ -59,7 +59,11 @@
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
-              <folding />
+              <folding>
+                <marker date="1348074845000" expanded="true" signature="21:234" placeholder="..." />
+                <marker date="1348074845000" expanded="true" signature="28:196" placeholder="..." />
+                <marker date="1348074845000" expanded="true" signature="203:226" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -668,7 +672,11 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
+          <folding>
+            <marker date="1348074845000" expanded="true" signature="21:234" placeholder="..." />
+            <marker date="1348074845000" expanded="true" signature="28:196" placeholder="..." />
+            <marker date="1348074845000" expanded="true" signature="203:226" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -681,7 +689,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/requests/static_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="10" selection-start="357" selection-end="357" vertical-scroll-proportion="0.3515625">
+        <state line="7" column="33" selection-start="228" selection-end="228" vertical-scroll-proportion="0.20507812">
           <folding />
         </state>
       </provider>
