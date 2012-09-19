@@ -12,6 +12,14 @@ describe "StaticPages" do
       visit '/static_pages/home'
       page.should have_css("title" , text: "SampleApp")
       end
+  end
+
+  describe "About Page" do
+    it "Page should have content about" do
+    visit '/static_pages/about'
+    page.should have_content("About")
+    end
     end
   end
+
 
